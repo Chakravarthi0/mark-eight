@@ -6,7 +6,12 @@ const emojiDB = {
     "🏬": "Department Store",
     "🏠": "House",
     "🏦": "Bank",
-    "🏝️": "Desert Island"
+    "🏝️": "Desert Island",
+    "🏟️": "Stadium",
+    "🏞️" :"National Park",
+    "🛖" :"Hut",
+    "🏭": "Factory",
+    "🏰": "Castle"
 }
 
 var emojiList = Object.keys(emojiDB);
